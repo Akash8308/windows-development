@@ -1,0 +1,7 @@
+REGEDIT4
+[HKEY_CLASSES_ROOT\CLSID\{}]
+@="MyComDll"
+[HKEY_CLASSES_ROOT\CLSID\{}\InporcServer32]
+@-"C:\MyProjects\01-Win32\11 - MyClassFactory\ClassFactoryDllServerWithRegFile"
+
+

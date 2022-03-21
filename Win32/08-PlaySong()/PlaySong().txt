@@ -1,0 +1,7 @@
+WinMM.h
+
+
+case WM_CREATE:
+	PlaySound("SONGNAME", );
+
+link.exe Window.obj user32.lib gdi32.lib Winmm.lib
